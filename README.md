@@ -4,7 +4,6 @@
     I am a Software Developer since 2020
     <br />
     <br />
-    <i>Welcome to my code showcase 💻!</i>
   </h2>
   <br />
   <br />
