@@ -21,7 +21,10 @@
   <br />
   <hr />
   <h2>
-  <a href="https://www.linkedin.com/in/cabrerajulian">Check out my Linkedin 😄</a>
+  <a href="https://jcabrera.vercel.app">Check out my Portfolio 😄</a>
+  <br />
+  <br />
+  <a href="https://www.linkedin.com/in/cabrerajulian">My Linkedin</a>
   <br />
   <br />
   <a href="https://github.com/julian-cabrera/julian-cabrera/files/12620069/230915-resume-jcabrera.pdf">Or download my CV! 📑</a>
