@@ -3,20 +3,20 @@
     Hi 😊 I'm <i>Julián</i>
   </h1>
   <h2>
-    I am a Software Developer from Argentina
+    I am a Software Engineer from Argentina
     <br />
     <br />
   </h2>
   <br />
   <br />
   <h3>
-    I started developing in 2020
+    I started coding in 2020
     <br />
     <br />
-    Here I store projects that I've done myself and some others I've done with courses.
+    Here you'll find projects I've built on my own, as well as some I created while following courses.
     <br />
     <br />
-    Come take a look!
+    Feel free to take a look around!
   </h3>
   <br />
   <hr />
